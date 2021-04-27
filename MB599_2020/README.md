@@ -22,8 +22,12 @@ How many colleges is there at Oregon State University?
 ## Question 3
 In R programming, which function (without the parenthesis) check for missing data in R?
 
+is.na
+
 ## Question 4
 What is the command to check the status of a submitted job on the CGRB server. 
+
+qstat ID
 
 ## Go the email address
 davidlab.science.oregonstate.edu/sites/davidlab.science.oregonstate.edu/files/answer1_answer2_answer3_answer4.pdf
